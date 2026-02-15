@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=900&color=FF8F8F&center=true&vCenter=true&width=700&height=70&lines=Isaac+Mulugeta" alt="animated name"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Isaac%20Mulugeta&fontAlign=50&fontAlignY=35&color=0:0b1026,50:121b3a,100:1f2a5a&fontColor=ff8f8f&animation=twinkling" alt="header"/>
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620" alt="coding banner"/>
 
 ## Welcome to my Digital Playground
