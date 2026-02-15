@@ -1,74 +1,78 @@
-# Hi, I'm Isaac Mulugeta
+<div align="center">
 
-Computer Science & Mathematics student at Centre College building practical software across full-stack apps, embedded systems, and data/ML.
+# Software Developer
 
-- Currently: Software Engineering Intern at Lillup (San Francisco)
-- Focus areas: Full-stack engineering, data products, and ML-powered user experiences
-- Competitive programming: ICPC Regional 3rd Place (Nov 2024)
-- Open to: Software engineering internships and impactful collaborations
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Isaac%20Mulugeta&fontAlign=50&fontAlignY=35&color=0:0b1026,50:121b3a,100:1f2a5a&fontColor=ff8f8f&animation=twinkling" alt="header"/>
 
-## What I Build
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="760" alt="coding banner"/>
 
-I like building products that solve real problems and are actually usable.
+## Welcome to my Digital Playground
 
-- End-to-end web apps with strong UX and clean APIs
-- Data and analytics tools that support real decisions
-- ML features that improve product outcomes (not just demos)
-- Embedded + mobile systems with real-time data pipelines
+<img src="https://komarev.com/ghpvc/?username=Isaac3176&label=PROFILE+VIEWS&color=ff8f8f&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Isaac3176?label=FOLLOWERS&style=for-the-badge&color=8bd450" alt="followers"/>
+<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%7C%20Data%20%7C%20ML-7ddc68?style=for-the-badge" alt="focus"/>
 
-## Featured Projects
-
-### LiftIQ
-Real-time barbell tracking system using a 9-DoF IMU + Raspberry Pi + React Native app over WebSockets.
-
-- Stack: Raspberry Pi, IMU (ICM-20948), React Native (Expo), WebSockets
-- Focus: low-latency streaming, reliable data capture, on-device processing, rep counting
-- Repo: [Isaac3176/LiftIQ](https://github.com/Isaac3176/LiftIQ)
-
-### DormFix
-AI-powered campus maintenance triage app built for the Gemini 3 Global Hackathon.
-
-- Goal: prioritize urgent maintenance requests and reduce response friction
-- Value: clearer issue summaries + better staff decision support
-- Demo: [YouTube](https://youtube.com/shorts/vQTyi4QuUeg)
-- Repo: [robert-nguyenn/dorm-fix](https://github.com/robert-nguyenn/dorm-fix)
-
-### FitPlate
-Full-stack nutrition and meal-planning app with AI-generated personalized plans.
-
-- Stack: React, Node.js, DynamoDB, OpenAI API, REST APIs
-- Impact: adaptive plans aligned with user goals and dietary needs
-- Site: [Live](https://isaac3176.github.io/)
-- Repo: [isaac3176.github.io](https://github.com/Isaac3176/isaac3176.github.io)
-
-### ReWear
-Sustainability-focused clothing swap platform and hackathon winner.
-
-- Stack: React, AWS, DynamoDB, SQL
-- Highlight: recognized for impact and usability
-- Repo: [aoifeguanzon/Rewear](https://github.com/aoifeguanzon/Rewear)
-
-## Experience
-
-- **Software Engineering Intern, Lillup** (Nov 2025 - Present)
-- **Sport Analytics Researcher, Centre College Baseball** (May 2025 - Oct 2025)
-- **Computer Science Researcher, Centre College** (Feb 2025 - May 2025)
-- **Full-Stack Developer Intern, Lersha (Agri-Tech)** (Jul 2023 - Sep 2023)
-
-## Tech Stack
-
-**Languages:** Java, JavaScript, TypeScript, Python, R, Scala, C, C#, SQL  
-**Frontend:** React, Next.js, HTML, CSS, Bootstrap, R Shiny  
-**Backend/Cloud:** Node.js, REST APIs, AWS, DynamoDB  
-**Tools:** Git, Jest, Bash/Linux, VS Code, MATLAB  
-**Data/ML:** K-NN, Logistic Regression, Statistical Modeling, Data Analysis
-
-## Connect
-
-- Portfolio: [isaac3176.github.io/Isaac_portfolio](https://isaac3176.github.io/Isaac_portfolio/)
-- LinkedIn: [isaac-mulugeta](https://www.linkedin.com/in/isaac-mulugeta/)
-- Email: [isaactesfalidet6@gmail.com](mailto:isaactesfalidet6@gmail.com)
+</div>
 
 ---
 
-> I enjoy turning ideas into real, usable software that helps people.
+## About Me
+
+```js
+const isaac = {
+  pronouns: "he/him",
+  school: "Centre College",
+  major: "Computer Science & Mathematics",
+  currentRole: "Software Engineering Intern @ Lillup (San Francisco)",
+  competitiveProgramming: "ICPC Regional 3rd Place (Nov 2024)",
+  workingOn: ["LiftIQ", "AI-powered product workflows", "real-time systems"],
+  interests: ["Full-Stack Development", "Machine Learning", "Sports Analytics"],
+  askMeAbout: ["React", "Node.js", "TypeScript", "Data + Product Thinking"]
+};
+```
+
+## Tech Arsenal
+
+### AI and Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r" alt="ai tools"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,bootstrap" alt="frontend tools"/>
+</p>
+
+### Backend and Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cs,postgres,mongodb" alt="backend tools"/>
+</p>
+
+### Cloud and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash,vscode,jest" alt="cloud tools"/>
+</p>
+
+## Featured Projects
+
+- **LiftIQ**: Real-time barbell tracking with IMU + Raspberry Pi + React Native over WebSockets.  
+  Repo: https://github.com/Isaac3176/LiftIQ
+- **DormFix**: AI-powered maintenance triage app (Gemini 3 Global Hackathon).  
+  Demo: https://youtube.com/shorts/vQTyi4QuUeg | Repo: https://github.com/robert-nguyenn/dorm-fix
+- **FitPlate**: AI meal-planning app with personalized nutrition recommendations.  
+  Live: https://isaac3176.github.io/ | Repo: https://github.com/Isaac3176/isaac3176.github.io
+- **ReWear**: Sustainability-focused clothes-swap app, hackathon winner.  
+  Repo: https://github.com/aoifeguanzon/Rewear
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isaac3176&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac3176&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</div>
+
+## Connect
+
+- Portfolio: https://isaac3176.github.io/Isaac_portfolio/
+- LinkedIn: https://www.linkedin.com/in/isaac-mulugeta/
+- Email: isaactesfalidet6@gmail.com
