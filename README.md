@@ -2,15 +2,13 @@
 
 # Software Developer
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=900&color=FF8F8F&center=true&vCenter=true&width=700&height=70&lines=Isaac+Mulugeta" alt="animated name"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Isaac%20Mulugeta&fontAlign=50&fontAlignY=35&color=0:0b1026,50:121b3a,100:1f2a5a&fontColor=ff8f8f&animation=twinkling" alt="header"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="760" alt="coding banner"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620" alt="coding banner"/>
 
 ## Welcome to my Digital Playground
-
-<img src="https://komarev.com/ghpvc/?username=Isaac3176&label=PROFILE+VIEWS&color=ff8f8f&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Isaac3176?label=FOLLOWERS&style=for-the-badge&color=8bd450" alt="followers"/>
-<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%7C%20Data%20%7C%20ML-7ddc68?style=for-the-badge" alt="focus"/>
 
 </div>
 
