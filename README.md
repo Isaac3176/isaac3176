@@ -19,7 +19,7 @@ const isaac = {
   pronouns: "he/him",
   school: "Centre College",
   major: "Computer Science & Mathematics",
-  currentRole: "Software Engineering Intern @ Lillup (San Francisco)",
+  currentRole: "Software Engineering Intern @ Avnet",
   competitiveProgramming: "ICPC Regional 3rd Place (Nov 2024)",
   workingOn: ["LiftIQ", "AI-powered product workflows", "real-time systems"],
   interests: ["Full-Stack Development", "Machine Learning", "Sports Analytics"],
