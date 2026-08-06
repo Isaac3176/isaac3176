@@ -1,74 +1,77 @@
 <div align="center">
 
-# Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Isaac+Mulugeta;Software+Engineer;CS+%2B+Math+%40+Centre+College" alt="Isaac Mulugeta"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=900&color=FF8F8F&center=true&vCenter=true&width=700&height=70&lines=Isaac+Mulugeta" alt="animated name"/>
+**Software Developer Intern @ Avnet** &nbsp;·&nbsp; CS + Math @ Centre College '28 &nbsp;·&nbsp; ICPC Mid-Central Regional
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620" alt="coding banner"/>
-
-## Welcome to my Digital Playground
+[Portfolio](https://isaac3176.github.io/Isaac_portfolio/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/isaac-mulugeta/) &nbsp;·&nbsp;
+[Email](mailto:isaactesfalidet6@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-```js
-const isaac = {
-  pronouns: "he/him",
-  school: "Centre College",
-  major: "Computer Science & Mathematics",
-  currentRole: "Software Engineering Intern @ Avnet",
-  competitiveProgramming: "ICPC Regional 3rd Place (Nov 2024)",
-  workingOn: ["LiftIQ", "AI-powered product workflows", "real-time systems"],
-  interests: ["Full-Stack Development", "Machine Learning", "Sports Analytics"],
-  askMeAbout: ["React", "Node.js", "TypeScript", "Data + Product Thinking"]
-};
-```
+I build systems that turn messy production data into decisions.
 
-## Tech Arsenal
+Right now that means bot detection and security analytics at **Avnet**, where I trained an XGBoost classifier over 54M+ Cloudflare edge requests and shipped the internal platform engineers use to act on it. Before that: WebRTC peer-to-peer architecture at Lillup, and predictive models for Centre's baseball program.
 
-### AI and Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r" alt="ai tools"/>
-</p>
+Outside of work I'm usually building something with sensors attached to it.
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,bootstrap" alt="frontend tools"/>
-</p>
+- 🔭 **Currently:** bot mitigation + a Next.js replatform at Avnet, serving Hackster.io's 2.3M+ member community
+- 🏗️ **Building:** [InternPilot](https://github.com/Isaac3176/InternPilot), a local-first desktop tracker for the internship hunt, and [LiftIQ](https://github.com/Isaac3176/LiftIQ), real-time barbell analytics on sub-$100 hardware
+- 📚 **Learning:** distributed systems, low-latency backend design
+- 💬 **Ask me about:** ML on production traffic, WebRTC, sensor pipelines, or R Shiny for sports analytics
 
-### Backend and Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,cs,postgres,mongodb" alt="backend tools"/>
-</p>
-
-### Cloud and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash,vscode,jest" alt="cloud tools"/>
-</p>
+---
 
 ## Featured Projects
 
-- **LiftIQ**: Real-time barbell tracking with IMU + Raspberry Pi + React Native over WebSockets.  
-  Repo: https://github.com/Isaac3176/LiftIQ
-- **DormFix**: AI-powered maintenance triage app (Gemini 3 Global Hackathon).  
-  Demo: https://youtube.com/shorts/vQTyi4QuUeg | Repo: https://github.com/robert-nguyenn/dorm-fix
-- **FitPlate**: AI meal-planning app with personalized nutrition recommendations.  
-  Live: https://isaac3176.github.io/ | Repo: https://github.com/Isaac3176/isaac3176.github.io
-- **ReWear**: Sustainability-focused clothes-swap app, hackathon winner.  
-  Repo: https://github.com/aoifeguanzon/Rewear
+### 🚀 [InternPilot AI](https://github.com/Isaac3176/InternPilot) — Local-First Recruiting Tracker &nbsp;`in development`
+A desktop app for managing the internship grind: applications, tailored resume versions, referrals, OAs, and interview stages in one place. Runs **local-first** — data lives in SQLite on your own machine, not someone else's cloud. Read-only Gmail OAuth classifies confirmations, rejections, assessments, and offers, with human review before anything gets filed.
+`Tauri` `Rust` `React` `TypeScript` `SQLite` `OAuth`
 
-## GitHub Stats
+### 🏋️ [LiftIQ](https://github.com/Isaac3176/LiftIQ) — Smart Weightlifting Analytics
+Barbell motion tracking with a 9-DoF IMU, Raspberry Pi, and a Python WebSocket backend streaming to React Native. **100–200 Hz sensor data at sub-100 ms latency, ~90% rep-detection accuracy** — on under $100 of hardware, no cameras required.
+`Python` `React Native` `Raspberry Pi` `WebSockets` `Signal Processing`
+
+### 🔧 [DormFix](https://github.com/robert-nguyenn/dorm-fix) — AI Maintenance Triage
+Built for the Gemini 3 Global Hackathon. Routes and prioritizes dorm maintenance requests using multimodal classification. **[▶ Demo](https://youtube.com/shorts/vQTyi4QuUeg)**
+`AI/ML` `Full-Stack`
+
+### 🥗 [FitPlate](https://github.com/Isaac3176/isaac3176.github.io) — AI Meal Planning
+Personalized nutrition recommendations with dietary constraint handling. **[Live](https://isaac3176.github.io/)**
+`JavaScript` `AI/ML`
+
+### ♻️ [ReWear](https://github.com/aoifeguanzon/Rewear) — Clothes-Swap Platform
+Sustainability-focused swap marketplace. 🏆 **Hackathon winner.**
+`Full-Stack`
+
+---
+
+## Tech
+
+**Languages** &nbsp; Python · Java · TypeScript · JavaScript · SQL · C · R · Bash
+
+**Frontend** &nbsp; React · React Native · Next.js
+
+**Backend** &nbsp; Node.js · Express · FastAPI · REST · WebSockets
+
+**Data & ML** &nbsp; PostgreSQL · Redis · MongoDB · pandas · NumPy · scikit-learn · XGBoost · R Shiny
+
+**Infra** &nbsp; Docker · Linux · Git · Cloudflare · Heroku · Jest
+
+---
+
+## Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isaac3176&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac3176&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Isaac3176&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac3176&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top languages"/>
 </div>
 
-## Connect
-
-- Portfolio: https://isaac3176.github.io/Isaac_portfolio/
-- LinkedIn: https://www.linkedin.com/in/isaac-mulugeta/
-- Email: isaactesfalidet6@gmail.com
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac3176&theme=github-dark&hide_border=true" alt="streak"/>
+</div>
