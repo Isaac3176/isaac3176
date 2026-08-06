@@ -1,7 +1,11 @@
-### Isaac Mulugeta
+<div align="center">
 
-CS + Math at Centre College. Currently a software developer intern at Avnet, working on bot
-detection and a Next.js migration for [Hackster.io](https://hackster.io).
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Isaac+Mulugeta;CS+%2B+Math+%40+Centre+College;building+things+that+read+the+real+world" alt=""/>
+
+</div>
+
+Currently a software developer intern at Avnet, working on bot detection and a Next.js migration
+for [Hackster.io](https://hackster.io).
 
 Most of what I've built lately involves pulling signal out of production data, or out of sensors.
 
@@ -43,4 +47,9 @@ college baseball team.
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Isaac3176&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="stats"/>
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Isaac3176&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt=""/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac3176&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide_title=true" alt=""/>
+
+</div>
