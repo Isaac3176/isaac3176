@@ -1,77 +1,46 @@
-<div align="center">
+### Isaac Mulugeta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Isaac+Mulugeta;Software+Engineer;CS+%2B+Math+%40+Centre+College" alt="Isaac Mulugeta"/>
+CS + Math at Centre College. Currently a software developer intern at Avnet, working on bot
+detection and a Next.js migration for [Hackster.io](https://hackster.io).
 
-**Software Developer Intern @ Avnet** &nbsp;·&nbsp; CS + Math @ Centre College '28 &nbsp;·&nbsp; ICPC Mid-Central Regional
+Most of what I've built lately involves pulling signal out of production data, or out of sensors.
 
-[Portfolio](https://isaac3176.github.io/Isaac_portfolio/) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/isaac-mulugeta/) &nbsp;·&nbsp;
-[Email](mailto:isaactesfalidet6@gmail.com)
-
-</div>
-
----
-
-## About
-
-I build systems that turn messy production data into decisions.
-
-Right now that means bot detection and security analytics at **Avnet**, where I trained an XGBoost classifier over 54M+ Cloudflare edge requests and shipped the internal platform engineers use to act on it. Before that: WebRTC peer-to-peer architecture at Lillup, and predictive models for Centre's baseball program.
-
-Outside of work I'm usually building something with sensors attached to it.
-
-- 🔭 **Currently:** bot mitigation + a Next.js replatform at Avnet, serving Hackster.io's 2.3M+ member community
-- 🏗️ **Building:** [InternPilot](https://github.com/Isaac3176/InternPilot), a local-first desktop tracker for the internship hunt, and [LiftIQ](https://github.com/Isaac3176/LiftIQ), real-time barbell analytics on sub-$100 hardware
-- 📚 **Learning:** distributed systems, low-latency backend design
-- 💬 **Ask me about:** ML on production traffic, WebRTC, sensor pipelines, or R Shiny for sports analytics
+[portfolio](https://isaac3176.github.io/Isaac_portfolio/) ·
+[linkedin](https://www.linkedin.com/in/isaac-mulugeta/) ·
+isaactesfalidet6@gmail.com
 
 ---
 
-## Featured Projects
+### Projects
 
-### 🚀 [InternPilot AI](https://github.com/Isaac3176/InternPilot) — Local-First Recruiting Tracker &nbsp;`in development`
-A desktop app for managing the internship grind: applications, tailored resume versions, referrals, OAs, and interview stages in one place. Runs **local-first** — data lives in SQLite on your own machine, not someone else's cloud. Read-only Gmail OAuth classifies confirmations, rejections, assessments, and offers, with human review before anything gets filed.
-`Tauri` `Rust` `React` `TypeScript` `SQLite` `OAuth`
+**[LiftIQ](https://github.com/Isaac3176/LiftIQ)** — barbell tracking with a 9-DoF IMU on a Raspberry Pi,
+streaming 100–200 Hz to React Native at sub-100ms. ~90% rep detection, under $100 of hardware, no cameras.
+Python, WebSockets, sensor fusion.
 
-### 🏋️ [LiftIQ](https://github.com/Isaac3176/LiftIQ) — Smart Weightlifting Analytics
-Barbell motion tracking with a 9-DoF IMU, Raspberry Pi, and a Python WebSocket backend streaming to React Native. **100–200 Hz sensor data at sub-100 ms latency, ~90% rep-detection accuracy** — on under $100 of hardware, no cameras required.
-`Python` `React Native` `Raspberry Pi` `WebSockets` `Signal Processing`
+**[InternPilot](https://github.com/Isaac3176/InternPilot)** *(wip)* — desktop app for tracking internship
+applications. Local-first, so everything sits in SQLite on your machine. Gmail read-only OAuth sorts
+confirmations and rejections, but nothing files without you looking at it. Tauri, Rust, TypeScript.
 
-### 🔧 [DormFix](https://github.com/robert-nguyenn/dorm-fix) — AI Maintenance Triage
-Built for the Gemini 3 Global Hackathon. Routes and prioritizes dorm maintenance requests using multimodal classification. **[▶ Demo](https://youtube.com/shorts/vQTyi4QuUeg)**
-`AI/ML` `Full-Stack`
+**[DormFix](https://github.com/robert-nguyenn/dorm-fix)** — maintenance request triage, built for the
+Gemini 3 hackathon. [demo](https://youtube.com/shorts/vQTyi4QuUeg)
 
-### 🥗 [FitPlate](https://github.com/Isaac3176/isaac3176.github.io) — AI Meal Planning
-Personalized nutrition recommendations with dietary constraint handling. **[Live](https://isaac3176.github.io/)**
-`JavaScript` `AI/ML`
+**[ReWear](https://github.com/aoifeguanzon/Rewear)** — clothes-swap app, won its hackathon.
 
-### ♻️ [ReWear](https://github.com/aoifeguanzon/Rewear) — Clothes-Swap Platform
-Sustainability-focused swap marketplace. 🏆 **Hackathon winner.**
-`Full-Stack`
+**[FitPlate](https://github.com/Isaac3176/isaac3176.github.io)** — meal planning with dietary constraints.
+[live](https://isaac3176.github.io/)
 
 ---
 
-## Tech
+### Tools
 
-**Languages** &nbsp; Python · Java · TypeScript · JavaScript · SQL · C · R · Bash
+Python, TypeScript, Java, SQL, C, R
+React, React Native, Next.js, Node, FastAPI
+Postgres, Redis, XGBoost, pandas, R Shiny
+Docker, Linux, Cloudflare, Git
 
-**Frontend** &nbsp; React · React Native · Next.js
-
-**Backend** &nbsp; Node.js · Express · FastAPI · REST · WebSockets
-
-**Data & ML** &nbsp; PostgreSQL · Redis · MongoDB · pandas · NumPy · scikit-learn · XGBoost · R Shiny
-
-**Infra** &nbsp; Docker · Linux · Git · Cloudflare · Heroku · Jest
+Ask me about running ML on real production traffic, WebRTC, or building strike-zone models for a
+college baseball team.
 
 ---
 
-## Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Isaac3176&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac3176&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac3176&theme=github-dark&hide_border=true" alt="streak"/>
-</div>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Isaac3176&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="stats"/>
